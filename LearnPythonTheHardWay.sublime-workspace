@@ -1,0 +1,297 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"amou",
+				"amount_of_crackers"
+			],
+			[
+				"amount",
+				"amount_of_cheese"
+			],
+			[
+				"cheese",
+				"cheese_and_crackers"
+			],
+			[
+				"loop",
+				"loopNum"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"proto",
+				"prototype"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ex18.py",
+			"settings":
+			{
+				"buffer_size": 509,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ex19.py",
+			"settings":
+			{
+				"buffer_size": 682,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Packag",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 350.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/Lenon/Workspace/Github/LearnPythonTheHardWay/ex17exd.py",
+		"/G/Lenon/Workspace/Github/LearnPythonTheHardWay/ex17.py",
+		"/G/Lenon/Workspace/Github/LearnPythonTheHardWay/ex16.py",
+		"/G/Lenon/Workspace/Github/LearnPythonTheHardWay/ex15.py",
+		"/G/Lenon/Workspace/Github/LearnPythonTheHardWay/ex14.py",
+		"/G/Lenon/Workspace/Github/LearnPythonTheHardWay/ex15_example.txt",
+		"/H/DevelopmentTools/SublimeText2/Data/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/G/Lenon/Workspace/Github/LearnPythonTheHardWay/ex13.py",
+		"/G/Lenon/Workspace/Github/LearnPythonTheHardWay/ex11.py",
+		"/G/Lenon/Workspace/Github/LearnPythonTheHardWay/ex10.py",
+		"/G/Lenon/Workspace/Github/LearnPythonTheHardWay/ex09.py",
+		"/G/Lenon/Workspace/Github/LearnPythonTheHardWay/ex08.py",
+		"/G/Lenon/Workspace/Github/LearnPythonTheHardWay/ex07.py",
+		"/G/Lenon/Workspace/Github/LearnPythonTheHardWay/ex06.py",
+		"/H/DevelopmentTools/SublimeText2/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/H/DevelopmentTools/SublimeText2/Data/Packages/User/Preferences.sublime-settings",
+		"/H/DevelopmentTools/SublimeText2/Data/Packages/Default/Preferences.sublime-settings",
+		"/G/Utilities/goagent/2.1.9-54byLenon/server/python/wsgi.py",
+		"/H/SkyDrive/workspace/node.js/node-agent2/app.js",
+		"/H/SkyDrive/workspace/node.js/node-agent2/package.json",
+		"/H/SkyDrive/workspace/node.js/node-agent/app.js",
+		"/H/DevelopmentTools/Mongodb/2.0.4_x64/bin/logs/mongoRuntime.log",
+		"/H/SkyDrive/MY/ClickPer4min.ahk",
+		"/G/COMPANY/PROJECT/LEO/SVN/LEO-Report/SCM/04 Development Management/03 Coding/ReportingServer/CSharpZipLib/SharpZipBaseException.cs",
+		"/G/COMPANY/PROJECT/LEO/SVN/LEO-Report/SCM/04 Development Management/03 Coding/ReportingServer/CSharpZipLib/Main.cs",
+		"/G/Lenon/Workspace/Github/CodeParser/Test1.js",
+		"/G/Utilities/goagent/1.8.11byLenon/local/proxy.py",
+		"/G/Lenon/Workspace/Github/CodeParser/program.js",
+		"/G/Lenon/Workspace/Github/CodeParser/ListLexer.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"line",
+			"https",
+			"head",
+			"connection",
+			"proxy",
+			"keep",
+			"connection",
+			"proxy-connection",
+			"&nbsp;",
+			"[",
+			"logging",
+			"log_request",
+			"listen",
+			"DNS",
+			"DNSLookup",
+			"DNSLookupFailedError",
+			"logging"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ex18.py",
+					"settings":
+					{
+						"buffer_size": 509,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ex19.py",
+					"settings":
+					{
+						"buffer_size": 682,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								681,
+								681
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 143.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/G/Lenon/Workspace/Github/CodeParser/Test1.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true
+}
